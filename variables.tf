@@ -18,3 +18,7 @@ variable "ami_id" {
 variable "key_name" {
   description = "mnsdf6734%$zd623b$(%@GDT&^N"
 }
+
+variable "key_token" {
+  description = "mnsdf34524(*@3b$(%@GDT&^N"
+}
